@@ -2,5 +2,38 @@ html, body {
     background-color: rgb(197, 181, 214);
   }
 h1 {
-  font: italic small-caps bold 20px/30px Georgia, serif;
+  font: italic small-caps bold 30px/40px Georgia, serif;
+  background-color: rgb(252, 105, 130);
+  text-align: center;
+  border-radius: 12px;
+}
+h2 {
+  font: Georgia 30px/40px Georgia, serif;
+  text-decoration: underline;
+}
+h3 {
+  font: Georgia 30px/40px Georgia, serif;
+  text-decoration: underline;
+}
+p {
+  font: 20px Times, sans-serif;
+}
+img {
+  border-radius: 10px;
+}
+a {
+  background-color: rgb(243, 243, 194);
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 30px;
+}
+ul li {
+  background-color: blanchedalmond;
+  padding: 20px;
+  margin: 2px;
+}
+ol li {
+  background-color: rgb(189, 228, 189);
+  padding: 20px;
+  margin: 2px;
 }
