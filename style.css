@@ -1,24 +1,9 @@
 html, body {
-    background-color: rgb(197, 181, 214);
+    background-color: rgb(213, 202, 224);
   }
 h1 {
-  font: italic small-caps bold 30px/40px Georgia, serif;
+  font: Georgia bold 30px/40px, serif;
   text-align: center;
-}
-  
-h2 {
-  font: 25px Times, sans-serif;
-  text-decoration: underline;
-}
-h2 {
-  font: 25px Times, sans-serif;
-}
-h3 {
-  font: 20px Times, sans-serif;
-  text-decoration: underline;
-}
-p {
-  font: 20px Times, sans-serif;
 }
 img {
   border-radius: 10px;
@@ -26,30 +11,30 @@ img {
 a {
   text-decoration: none;
   font-size: 30px;
-  text-align: center;
-}
-ul li {
-  background-color: blanchedalmond;
-  padding: 20px;
-  margin: 2px;
-}
-ol li {
-  background-color: rgb(189, 228, 189);
-  padding: 20px;
-  margin: 2px;
+  align-content: center;
+  color: bisque;
+  text
 }
 nav {
-background-color: blanchedalmond;
-padding-left: 4px;
-margin-left: 200px;
-margin-right: 200px;
-}
+background-color: rgb(42, 30, 56);
+text-align: center;
 
-header {
-background-color: rgb(169, 201, 185);
-padding-left: 4px;
 }
 main {
-  background-color: rgb(133, 167, 196);
-  padding-left: 4px;
+  align-content: center;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid black;
+  text-align: center;
+  font-size: 16px;
+  background-color: rgb(161, 143, 170);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+header {
+  background-color: blanchedalmond;
+  align-content: center;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid black;
+}
+#aspectratio {}
